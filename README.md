@@ -56,6 +56,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/renansilvaz/renansilvaz/output/snake.svg" alt="Snake animation" />
-
-###
