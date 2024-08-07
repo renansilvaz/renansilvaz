@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Fullstack Júnior apaixonado por criar interfaces de usuário intuitivas e responsivas, com um foco especial em TypeScript e React.</p>
+<p align="left">Desenvolvedor Fullstack Júnior focado em criar interfaces de usuário intuitivas e responsivas, em especial utilizando TypeScript e React.</p>
 
 ###
 
