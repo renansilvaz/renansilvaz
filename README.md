@@ -1,54 +1,21 @@
-<h2 align="left">Olá, eu sou o Renan! 👋</h2>
+<h1 align="center">👋 Olá, eu sou o Renan</h1>
 
-###
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  <br>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="center">
+</p>
 
-<p align="left">Desenvolvedor Fullstack Júnior focado em criar interfaces de usuário intuitivas e responsivas, em especial utilizando TypeScript e React.</p>
 
-###
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,angular,nodejs,react,next)](https://skillicons.dev)<br><br>
 
-<h2 align="left">Tecnologias que eu uso no meu dia</h2>
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,bootstrap,git,github)](https://skillicons.dev)<br><br>
 
-###
+## 📫 Contato
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:RenanSantos)](mailto:{renan.silva112@outlook.com})
+[![Linkedin: Renan](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/renan-santos-js)](https://www.linkedin.com/in/renan-santos-js/) <br><br>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renansilvaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renansilvaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Minhas redes sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/renan-santos-js/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev-link-six.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
