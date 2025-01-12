@@ -8,10 +8,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,angular,nodejs,react,next)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,nodejs,express,react)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,bootstrap,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,bootstrap,git,github,npm)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
