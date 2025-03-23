@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,mongodb,postgresql)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,bootstrap,git,github,grandle,maven)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,bootstrap,git,github,gradle,maven)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
