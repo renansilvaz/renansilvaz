@@ -8,7 +8,7 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,docker)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,mongodb,postgre)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,bootstrap,git,github,npm)](https://skillicons.dev)<br><br>
