@@ -8,10 +8,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,docker,postgresql)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,bootstrap,git,github,gradle,maven)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,docker,maven)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
